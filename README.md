@@ -6,15 +6,15 @@
 
 ### Staff and sections
 
-**Instructor:** [Matthew Wilkens](https://infosci.cornell.edu/content/Wilkens)<br>
-**PhD TAs:** [Federica Bologna](https://infosci.cornell.edu/content/bologna), [Rosamond Thalken](https://infosci.cornell.edu/content/thalken)<br>
-**MPS TAs:** Ran Tao, Aaliyah Yang<br>
-**Undergrad TAs:** Lucas Li, Andrew Modrowsky, Elizabeth Moon
+**Instructor:** [Jacob Matthews](https://jam963.github.io)<br>
+**PhD TAs:** [Xinhe Tian](), [Shengqi Zhu]()<br>
+**MPS TAs:** Tiffany Pan<br>
+**Undergrad TAs:** Kevin Huang, Khoa Nguyen, Nicholas Vega, Cathy Zhao<br> 
 
 **Credits:** 3 (3350) or 4 (6350)<br>
 **Mode:** In person (only)
 
-**Lecture:** MW 9:05-9:55am, Statler 196<br>
+**Lecture:** MW 9:05-9:55am, LOCATION TBD<br>
 **Sections:**<br>
 As listed in the Cornell course roster (subject to change).
 
