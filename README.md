@@ -20,8 +20,8 @@ As listed in the Cornell course roster (subject to change).
 
   * F  9:05- 9:55, Snee Hall 2154, Xinhe  
   * F 11:15-12:05, Snee Hall 2154, Tiffany
-  * F  3:35- 4:25, Snee Hall 2154, Shengqi 
-  * Grad section: F 10:10a-12:05p, Hollister 312, Jacob
+  * F  2:30- 3:20, Snee Hall 2154, Shengqi 
+  * Grad section: F 3:35p-4:25p, Hollister 312, Jacob
 
 **Office hours:** See [Canvas](https://canvas.cornell.edu/courses/68185)<br>
 **Additional resources:** See the [**Mechanics**](#mechanics) section below.
