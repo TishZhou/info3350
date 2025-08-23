@@ -7,29 +7,28 @@
 ### Staff and sections
 
 **Instructor:** [Jacob Matthews](https://jam963.github.io)<br>
-**PhD TAs:** [Xinhe Tian](), [Shengqi Zhu]()<br>
+**PhD TAs:** Xinhe Tian, Shengqi Zhu<br>
 **MPS TAs:** Tiffany Pan<br>
 **Undergrad TAs:** Kevin Huang, Khoa Nguyen, Nicholas Vega, Cathy Zhao<br> 
 
 **Credits:** 3 <br>
 **Mode:** In person (only)
 
-**Lecture:** MW 9:05-9:55am, LOCATION TBD<br>
+**Lecture:** MW 9:05-9:55am, Hollister B14 <br>
 **Sections:**<br>
 As listed in the Cornell course roster (subject to change).
 
-  * F  9:05- 9:55, Xinhe 
-  * F 11:15-12:05, Xinhe
-  * F  2:30- 3:20, Shengqi
-  * F  3:35- 4:25, Shengqi 
-  * Grad section: F 10:10a-12:05p, Jacob
+  * F  9:05- 9:55, Snee Hall 2154, Xinhe  
+  * F 11:15-12:05, Snee Hall 2154, Tiffany
+  * F  3:35- 4:25, Snee Hall 2154, Shengqi 
+  * Grad section: F 10:10a-12:05p, Hollister 312, Jacob
 
 **Office hours:** See [Canvas](https://canvas.cornell.edu/courses/68185)<br>
 **Additional resources:** See the [**Mechanics**](#mechanics) section below.
 
 ### Waitlist and prerequisites
 
-The course is not currently full, but enrollment is restricted to Info Sci majors. Others may enroll via the waitlist on [Student Center](https://studentcenter.cornell.edu). PINs are distributed daily by student services. If you encounter any problems, please see the CIS [course help and ticketing system](https://tdx.cornell.edu/TDClient/193/Portal/Home/).
+The course is not currently full, but enrollment is restricted to Info Sci majors. Others may enroll via the waitlist on [Student Center](https://studentcenter.cornell.edu). PINs are distributed every other day by student services. If you encounter any problems, please see the CIS [course help and ticketing system](https://tdx.cornell.edu/TDClient/193/Portal/Home/).
 
 If you are on the waitlist, <b><i>please attend lectures and section meetings while you wait for a PIN</i></b>. It is otherwise almost impossible to catch up if you're admitted at the end of the add period. 
 
