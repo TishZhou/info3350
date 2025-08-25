@@ -1,2 +1,7 @@
 *.ipynb_checkpoints*
 *.pyc
+lectures_draft/*
+final_exam_draft/*
+.venv/
+.python-version
+__pycache__/

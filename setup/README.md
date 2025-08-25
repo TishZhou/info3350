@@ -34,7 +34,7 @@ To get things set up, you're going to:
 conda update conda
 conda config --add channels defaults
 conda config --append channels conda-forge
-conda create --name 3350 --file info-3350-packages.txt
+conda create --name 3350 python=3.12.0 --file info-3350-packages.txt
 ```
 
   * Install some data files. You can skip the last line (installing spaCy's `en_core_web_lg` model) for now if you're tight on disk space.
@@ -73,6 +73,7 @@ If we add any packages to the list (possible during the second half of the semes
 Lectures, problem sets, projects, and other course material will be distributed as Jupyter notebook files. These files, if you ever have occasion to inspect them in a text editor, are just JSON documents. In the same way that raw HTML files look like plain text with a lot of angle brackets and so on, but become rendered web pages when displayed in a browser, so too are Jupyter notebooks only really useful when rendered (unless you're a developer of the underlying system).
 
 You need to be able to *find* your Jupyter notebook files and *open* them in a running instance of JupyterLab. **Make sure you understand where these files live on your computer.** You'll need to open them via JupyterLab's built-in file browser or an IDE like VSCode. You'll also need to access them via your OS and/or browser's file picker in order to upload them to CMS for grading.
+
 
 ## A note on hardware: CUDA/Metal/GPU support
 <I>There is no requirement or expectation that you have any particular hardware for this class. The below only applies to students who have Macs with Apple Silicon (M-series processors) or PCs with dedicated GPUs. For anything that may require a GPU, we suggest using Google Colab if you don't have one. We will offer further guidance on this later in the semester.</I>
