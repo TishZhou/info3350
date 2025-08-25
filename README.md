@@ -144,7 +144,7 @@ If you need to miss a lecture or section meeting, please inform your section TA 
 
 **Late work** is accepted subject to a limit of **five total slip days** for the semester. You may submit any individual assignment up to **three** days (72 hours) late.
 
-If you expect to miss a deadline or to be absent for an extended period due to truly exceptional circumstances, contact Professor Wilkens as far in advance as possible so that we can discuss potential accommodations.
+If you expect to miss a deadline or to be absent for an extended period due to truly exceptional circumstances, contact Jacob as far in advance as possible so that we can discuss potential accommodations.
 
 #### Regrade requests
 
