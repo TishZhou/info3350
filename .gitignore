@@ -8,6 +8,6 @@ final_exam_draft/*
 setup/info-3350-packages-venv.txt
 .python-version
 __pycache__/
-
+grading/
 
 .continue/*
