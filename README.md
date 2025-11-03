@@ -175,7 +175,7 @@ TAs will not help you debug AI-generated code.
 
 I reserve the right to ban the use of generative AI systems outright at a later point in the semester if they become a net negative for our learning goals, but I hope and expect that that won't be necessary.
 
-### Laptop use
+#### Laptop use
 Laptops are not permitted during lecture. If you have a relevant SDS accommodation that requires the use of a laptop during lecture, please speak with me to make appropriate arrangments.
 
 #### Disabilities
