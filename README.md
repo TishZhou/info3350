@@ -66,7 +66,7 @@ Note that you must generally be logged in through your Cornell account to access
 
 ### Work and grading
 #### Basis of Grade Determination
-Grades will be based on problem sets (five anticipated, 45% in sum), a take-home final exam or project (35%), section discussion performance (15% in sum), and overall participation and professionalism (5%). **You must achieve a passing grade in each of these components to pass the course.**
+Grades will be based on problem sets (five anticipated, 45% in sum), a take-home final exam or project (35%), section discussion performance (15% in sum), and overall participation and professionalism (5%). **You must achieve a passing grade in each of these components to pass the course.** Note that one of the homework assignments will be completed as **in-lecture worksheets**. 
 
 **Graduate students** (enrolled in 6350) must complete a final project in place of the final exam.
 
@@ -174,6 +174,9 @@ Use of generative AI *without* following these steps will constitute an academic
 TAs will not help you debug AI-generated code.
 
 I reserve the right to ban the use of generative AI systems outright at a later point in the semester if they become a net negative for our learning goals, but I hope and expect that that won't be necessary.
+
+### Laptop use
+Laptops are not permitted during lecture. If you have a relevant SDS accommodation that requires the use of a laptop during lecture, please speak with me to make appropriate arrangments.
 
 #### Disabilities
 
